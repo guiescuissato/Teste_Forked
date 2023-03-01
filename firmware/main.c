@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+Supostamente mudei algo no software
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
