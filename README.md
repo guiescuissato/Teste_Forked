@@ -1,3 +1,3 @@
 # Projeto fictício ME
 
-Farei um fork desse repositório
+Já fiz um fork desse repositório
